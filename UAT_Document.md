@@ -86,6 +86,6 @@ File: `Discord_UAT`
 
 All test cases were executed successfully. The chatbot meets the functional and non-functional acceptance criteria for this release. The system is **approved for deployment** to the hosting environment (Render/Railway).
 
-✅ **UAT Status:** Approved
-📅 **Date Completed:** October 30, 2025
-👤 **Tester:** Abhishek Malga
+ **UAT Status:** Approved
+ **Date Completed:** October 30, 2025
+ **Tester:** Abhishek Malga
