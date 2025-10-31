@@ -79,6 +79,8 @@ To validate that the Discord chatbot (**Sample Chat Bot**) is functioning as exp
 **Screenshot:**
 *UAT proof showing functional bot responses*
 File: `Discord_UAT`
+<img width="761" height="576" alt="Screenshot 2025-10-31 at 11 59 53 AM" src="https://github.com/user-attachments/assets/cf2274da-08e9-4fad-aa04-93d1dee1a33e" />
+
 
 ---
 
